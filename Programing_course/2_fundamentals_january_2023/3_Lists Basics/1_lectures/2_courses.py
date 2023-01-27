@@ -6,4 +6,4 @@ for _ in range(courses_number):
 
     list_number.append(course_name)
 
-print(list_number)
+print(list_number) 
