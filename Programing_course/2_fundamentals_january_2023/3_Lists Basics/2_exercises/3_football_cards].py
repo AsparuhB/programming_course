@@ -16,5 +16,5 @@ for player in player_card:
 
 print(f"Team A - {len(team_a)}; Team B - {len(team_b)}")
 if game_was_terminated:
-    print("Game was terminated.")
+    print("Game was terminated")
 
